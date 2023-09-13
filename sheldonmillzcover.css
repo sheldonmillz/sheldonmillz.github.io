@@ -1,0 +1,23 @@
+body{
+    font-family: 'Copperplate' , monospace;
+    font-weight: bolder;
+    background-color: #888888;
+    color: white;
+
+}
+
+footer{
+    color: black;
+    font-size: small;
+
+}
+
+.navbar-brand img{
+    
+    height: 50px;
+    position: center;
+    margin: auto;
+    padding: 5%;
+}
+ 
+
